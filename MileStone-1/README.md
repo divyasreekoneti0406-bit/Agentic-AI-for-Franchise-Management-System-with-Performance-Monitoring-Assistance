@@ -6,7 +6,7 @@
 
 Milestone 1 is the first deliverable of the internship project: a complete, self-contained **user authentication system** built with Streamlit and made publicly accessible from Google Colab using ngrok. It covers account creation, secure login, session handling, password recovery (via two independent methods), and a separate administrator view — all running from a single notebook.
 
-## ✅ Features Built
+## Features Built
 
 - **Signup** — Username, Email, Password, Confirm Password, Security Question, Security Answer, all mandatory. Usernames and emails must be unique; duplicate signups are rejected with a clear message.
 - **Login** — Accepts Username or Email + Password. On success, issues a JWT session token. On failure, shows one generic error (never reveals whether the username or the password was wrong).
@@ -20,7 +20,7 @@ Milestone 1 is the first deliverable of the internship project: a complete, self
 - **Admin Dashboard** — separate login using an admin username/password defined in code (not a signup account); shows all registered users (username, email, join date — never any password data), with a live **search** box and a **delete** button per user.
 - **Secrets management** — JWT signing key, ngrok token, and Gmail credentials are never hard-coded; all are read from Google Colab Secrets at runtime.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -33,7 +33,7 @@ Milestone 1 is the first deliverable of the internship project: a complete, self
 | Charts | Plotly |
 | Runtime | Google Colab |
 
-## ▶️ How to Run the Notebook
+## How to Run the Notebook
 
 **1. Set up Colab Secrets** (key icon 🔑 in the left sidebar) — add these four, and enable notebook access for each:
 
