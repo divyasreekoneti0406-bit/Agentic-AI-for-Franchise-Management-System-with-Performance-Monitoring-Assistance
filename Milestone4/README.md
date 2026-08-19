@@ -1,8 +1,31 @@
-# Agentic AI for Franchise Management System with Performance Monitoring Assistance
+> ## Agentic AI for Franchise Management System with Performance Monitoring Assistance
 
-## Franchise Management Intelligence Platform
+> **An intelligent franchise management platform that combines operational analytics, machine learning and AI-assisted decision support to help monitor and improve franchise performance.**
+> 
+### Team Context
 
-> **An AI-powered franchise management platform designed to analyse business performance, identify operational issues, and assist decision-making across multiple franchise outlets.**
+### Internship
+
+**Infosys Springboard Internship — Batch 1**
+
+### Mentor
+
+| Name | Designation |
+|---|---|
+| **Mohamedsipli M** | Infosys Springboard Mentor |
+
+### Team Members
+
+| Name | Role / What They Built | 
+|---|---|
+| **Divya Sree** | System Integration |
+| **R Jayasree** | Admin Dashboard |
+| **Sanvi Reddy** | UI Development |
+
+
+---
+
+
 
 ---
 
@@ -772,33 +795,4 @@ The combination of **machine-learning analytics, AI Copilot capabilities, docume
 We sincerely thank **Infosys Springboard** for providing the internship opportunity, learning environment and platform to develop this project.
 
 We also express our gratitude to our mentor and the Infosys Springboard team for their guidance, technical support and valuable feedback throughout the development of the project.
-
----
-
-## Agentic AI for Franchise Management System with Performance Monitoring Assistance
-
-> **An intelligent franchise management platform that combines operational analytics, machine learning and AI-assisted decision support to help monitor and improve franchise performance.**
-> 
-### Team Context
-
-### Internship
-
-**Infosys Springboard Internship — Batch 1**
-
-### Mentor
-
-| Name | Designation |
-|---|---|
-| **Mohamedsipli M** | Infosys Springboard Mentor |
-
-### Team Members
-
-| Name | Role / What They Built | 
-|---|---|
-| **Divya Sree** | System Integration |
-| **R Jayasree** | Admin Dashboard |
-| **Sanvi Reddy** | UI Development |
-
-
----
 
