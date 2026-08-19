@@ -1,6 +1,6 @@
-> ## Agentic AI for Franchise Management System with Performance Monitoring Assistance
+## Agentic AI for Franchise Management System with Performance Monitoring Assistance
 
-> **An intelligent franchise management platform that combines operational analytics, machine learning and AI-assisted decision support to help monitor and improve franchise performance.**
+ **An intelligent franchise management platform that combines operational analytics, machine learning and AI-assisted decision support to help monitor and improve franchise performance.**
 > 
 ### Team Context
 
