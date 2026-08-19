@@ -210,6 +210,8 @@ Machine-learning models are compared to identify an appropriate model for workfo
 * High-risk employee identification
 * Model comparison
 * Retention assistance
+  <img width="1919" height="909" alt="Agent1" src="https://github.com/user-attachments/assets/d582947f-b1eb-48a5-bb44-7909a354e713" />
+
 
 ---
 
@@ -236,6 +238,8 @@ It analyses:
 * Expansion analysis
 * Payback calculation
 * AI-based outlet recommendations
+  <img width="1911" height="918" alt="Agent2" src="https://github.com/user-attachments/assets/20866372-19e3-4f83-b02b-e826d0ae1fbd" />
+
 
 ---
 
@@ -260,6 +264,8 @@ It processes inventory information to identify:
 * Reorder-point calculation
 * Holding-cost analysis
 * Inventory recommendations
+  <img width="1910" height="910" alt="Agent3" src="https://github.com/user-attachments/assets/b427636f-d71d-4682-8e2f-3ca79301c74f" />
+
 
 ---
 
@@ -285,6 +291,7 @@ It analyses campaign information such as:
 * Customer Acquisition Cost
 * Marketing budget simulation
 * AI-assisted marketing recommendations
+<img width="1915" height="906" alt="Agent4" src="https://github.com/user-attachments/assets/f4e33889-b96e-4b15-8b0f-9fa3536d3b6d" />
 
 ---
 
@@ -310,6 +317,7 @@ It processes customer feedback to identify:
 * Feedback ledger
 * Customer recovery insights
 * AI-generated recommendations
+<img width="1894" height="888" alt="Agent5" src="https://github.com/user-attachments/assets/1ae0fae6-5889-47e1-ac6a-4487cace2ff6" />
 
 ---
 
@@ -329,6 +337,7 @@ The system analyses audit information and identifies potential compliance concer
 * Hygiene and penalty analysis
 * Compliance model comparison
 * AI-assisted audit recommendations
+<img width="1903" height="896" alt="Agent6" src="https://github.com/user-attachments/assets/8d8e05f3-20c3-4a82-808d-70910bb38410" />
 
 ---
 
@@ -351,6 +360,7 @@ It combines important information from different operational modules.
 * Active alerts
 
 The module helps management obtain a high-level understanding of the organisation without manually checking every individual business function.
+<img width="1902" height="914" alt="Agent7" src="https://github.com/user-attachments/assets/f08b7bb8-8a35-4002-b1e7-fa7604f3366f" />
 
 ---
 
@@ -370,6 +380,7 @@ This module provides multilingual translation using the **NLLB-200** model.
 * Translation output
 
 The feature helps make franchise operational information more accessible to users working with different languages.
+<img width="1893" height="893" alt="Agent8" src="https://github.com/user-attachments/assets/485b387c-aa72-4f0f-a342-bc7335ead6b3" />
 
 ---
 
@@ -397,6 +408,7 @@ The application extracts the available text and allows users to search the uploa
 * Franchise agreement information retrieval
 
 The current implementation uses lightweight text-based retrieval rather than claiming a production-scale vector database pipeline.
+<img width="1893" height="740" alt="Agent9" src="https://github.com/user-attachments/assets/879dd6d6-8496-4408-a742-b33807f87794" />
 
 ---
 
