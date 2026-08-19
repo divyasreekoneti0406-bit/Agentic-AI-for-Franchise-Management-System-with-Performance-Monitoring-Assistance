@@ -536,16 +536,23 @@ The administrator can review relevant AI Copilot activity and chat information.
 # Application Screenshots
 
 ### 1. Login Screen
+<img width="871" height="694" alt="login page (1)" src="https://github.com/user-attachments/assets/6e8a9fc7-5870-4de0-98c9-fa0d5943142f" />
+
 
 ### 2. Main Dashboard
+<img width="1894" height="891" alt="Dashboard (2)" src="https://github.com/user-attachments/assets/d2698e62-a464-4517-8c42-db2f98a50bcd" />
 
 ### 3. Agent Screen
+<img width="1915" height="906" alt="Agent4" src="https://github.com/user-attachments/assets/b69714c9-4d87-4a70-bbfb-1dec5cd41384" />
 
 ### 4. AI Copilot
+<img width="1883" height="883" alt="AI Copolit" src="https://github.com/user-attachments/assets/0d25a0bb-9f34-41b3-900a-ff86a2d253cb" />
 
 ### 5. Admin Dashboard
+<img width="1861" height="879" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/e3f352ed-b217-4093-8c45-35178e19a014" />
 
 ### 6. OTP / Password Recovery
+<img width="814" height="830" alt="otp (2)" src="https://github.com/user-attachments/assets/2be0ebd5-3216-4b54-ab21-3a0bb979dc94" />
 
 ---
 
