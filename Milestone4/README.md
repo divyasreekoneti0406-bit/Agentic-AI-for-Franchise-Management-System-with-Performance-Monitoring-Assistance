@@ -22,11 +22,6 @@
 | **R Jayasree** | Admin Dashboard |
 | **Sanvi Reddy** | UI Development |
 
-
----
-
-
-
 ---
 
 ## Table of Contents
